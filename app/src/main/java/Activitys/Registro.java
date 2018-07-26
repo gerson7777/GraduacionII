@@ -1,7 +1,9 @@
-package com.example.abyte.graduacionii;
+package Activitys;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.abyte.graduacionii.R;
 
 public class Registro extends AppCompatActivity {
 
